@@ -3,5 +3,4 @@
 <picture> <img align="left" src= "https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width = 350px></picture>
 <h3 align="left"> 🚀 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</h3>
 <picture> <img align="center" src= "about me.gif" width = 250px></picture>
-<picture> <img align="right" src= "TS.gif" width = 300px></picture>
 <br>
