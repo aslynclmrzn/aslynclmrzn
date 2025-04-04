@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+
   <!-- Design & CMS Platforms -->
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
