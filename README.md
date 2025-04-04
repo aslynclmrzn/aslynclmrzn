@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
