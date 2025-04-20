@@ -1,11 +1,12 @@
-
 <br>
 <br>
 <br>
 
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 
-<h6 align="center"><sub><code>&lt; Code.Eat.Sleep.Repeat /&gt;</code></sub></h6>
+<p align="center">
+  <span style="font-size: 20px;"><code>&lt; Code.Eat.Sleep.Repeat /&gt;</code></span>
+</p>
 
 <p align="center"><strong>Tech Stack</strong></p>
 
