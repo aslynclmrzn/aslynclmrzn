@@ -11,8 +11,6 @@
 </p>
 
 
-
-
 <p align="center"><strong>Tech Stack</strong></p>
 
 <p align="center">
@@ -31,8 +29,6 @@
 </p>
 
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
-
-
 
 <br>
 <br>
