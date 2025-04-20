@@ -1,13 +1,11 @@
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
 
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 
-<p align="center"><sub><code>&lt; Code.Eat.Sleep.Repeat /&gt;</code></sub></p>
+<h6 align="center"><sub><code>&lt; Code.Eat.Sleep.Repeat /&gt;</code></sub></h6>
 
 <p align="center"><strong>Tech Stack</strong></p>
 
@@ -28,9 +26,6 @@
 
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
