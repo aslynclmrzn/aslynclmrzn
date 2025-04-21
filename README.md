@@ -3,9 +3,9 @@
 <br>
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 
-<p align="center">
-  <span style="font-size: 25px;"><code>&lt; Code.Eat.Sleep.Repeat /&gt;</code></span>
-</p>
+<h3 align="center">
+< Code.Eat.Sleep.Repeat />
+</h3>
 <p align="center"><strong>Tech Stack</strong></p>
 
 <p align="center">
