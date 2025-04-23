@@ -1,8 +1,6 @@
 <br>
 <br>
-
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
-
 <h3 align="center">
 < Code.Eat.Sleep.Repeat />
 </h3>
@@ -25,6 +23,5 @@
 
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 
-<br>
 <br>
 <br>
