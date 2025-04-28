@@ -1,8 +1,8 @@
 <br>
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
-<h3 align="center">
+<h4 align="center">
 < Code.Eat.Sleep.Repeat />
-</h3>
+</h4>
 <p align="center"><strong>Tech Stack</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=WordPress&logoColor=blue" alt="WordPress" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
 <p align="center"><strong>GitHub Statistics</strong></p>
 
 <p align="center">
