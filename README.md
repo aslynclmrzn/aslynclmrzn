@@ -1,8 +1,5 @@
 <br>
 <p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
-<h2 align="center">
-< Code.Eat.Sleep.Repeat />
-</h2>
 <p align="center"><strong>Tech Stack</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
