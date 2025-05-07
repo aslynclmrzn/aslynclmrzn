@@ -30,5 +30,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aslynclmrzn&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-<p align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰</p>
+<p align="center">▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 <br>
